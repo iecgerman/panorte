@@ -151,6 +151,12 @@ nav .profile-link a {
       height: auto; /* esto lo puse porque deja un cuadro en blanco*/
 }
 
+/* Videos */
+iframe {
+      padding-top: 50px;
+      /* padding-bottom: 10px; */
+}
+
 .blogs-main-new {
       display: block;
       /* grid-template-columns: 2fr 1fr;
