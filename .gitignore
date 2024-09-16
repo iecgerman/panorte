@@ -3,7 +3,7 @@
 
 ### Images ###
 # JPEG
-*.jpg
+# *.jpg
 *.jpeg
 *.jpe
 *.jif
